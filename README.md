@@ -25,10 +25,13 @@ If you use this code in your work, please cite our preprint as follows:
 
 ```
 @article{Janssen2024,
-  title={Dynamic Dimensioning of Frequency Containment Reserves: The Case of the Nordic Grid},
-  author={Jobke Janssen and Alessandro Zocca and Bert Zwart and Jalal Kazempour},
-  journal={ArXiv preprint 2411.XXXXX},
-  year={2024},
+  author = {Janssen, Jobke and Zocca, Alessandro and Zwart, Bert and Kazempour, Jalal},
+  doi = {10.48550/arXiv.2411.xxxxx},
+  journal = {arXiv},
+  month = nov,
+  title = {{Dynamic Dimensioning of Frequency Containment Reserves: The Case of the Nordic Grid}},
+  url = {https://arxiv.org/abs/2411.xxxxx},
+  year = {2024}
 }
 ```
 
