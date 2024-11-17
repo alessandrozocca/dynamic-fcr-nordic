@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this code or the content of this research, please cite the paper as below."
+authors:
+- family-names: "Janssen"
+  given-names: "Jobke"
+- family-names: "Zocca"
+  given-names: "Alessandro"
+  orcid: "https://orcid.org/0000-0001-6585-4785"
+- family-names: "Zwart"
+  given-names: "Bert"
+  orcid: "https://orcid.org/0000-0001-9336-0096"
+- family-names: "Kazempour"
+  given-names: "Jalal"
+  orcid: "https://orcid.org/0000-0002-5050-6611"
+title: "Dynamic Dimensioning of Frequency Containment Reserves: The Case of the Nordic Grid"
+date-released: 2024-11-17
+url: "https://github.com/alessandrozocca/dynamic-fcr-nordic"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Janssen"
+    given-names: "Jobke"
+  - family-names: "Zocca"
+    given-names: "Alessandro"
+    orcid: "https://orcid.org/0000-0001-6585-4785"
+  - family-names: "Zwart"
+    given-names: "Bert"
+    orcid: "https://orcid.org/0000-0001-9336-0096"
+  - family-names: "Kazempour"
+    given-names: "Jalal"
+    orcid: "https://orcid.org/0000-0002-5050-6611"
+  doi: "10.48550/arXiv.2411.xxxxx"
+  title: "Dynamic Dimensioning of Frequency Containment Reserves: The Case of the Nordic Grid"
+  year: 2024
+  month: 11
+  journal: "arXiv"
+  url: "https://arxiv.org/abs/2411.xxxxx"
+  publisher:
+    name: "arXiv"
