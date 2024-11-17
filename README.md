@@ -12,8 +12,10 @@ One of the main responsibilities of a Transmission System Operator (TSO) operati
 
 ## Repository Contents
 
+- `Dynamic FCR Nordic - Code for figures and tables.ipynb`: Jupyter notebook for step-by-step reproduction of key results, including visualizations.
 - `data/`: Preprocessed datasets used in the study.
-- `notebooks/`: Jupyter notebooks for step-by-step reproduction of key results, including visualizations.
+- `figures/`: Figure files created in the notebook.
+- `results/`: .csv files created in the notebook where violation probabilities are recalculated depending on the heuristic.
 - `README.md`: This file.
 
 ---
