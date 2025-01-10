@@ -1,6 +1,6 @@
 # Dynamic Dimensioning of Frequency Containment Reserves: The Case of the Nordic Grid
 
-This repository contains the companion code for the article **"Dynamic Dimensioning of Frequency Containment Reserves: The Case of the Nordic Grid"**, authored by Jobke Janssen, Alessandro Zocca, Bert Zwart, and Jalal Kazempour. The preprint is available at [arxiv](https://arxiv.org/). The code supports the reproducibility of the results presented in the manuscript and facilitates further exploration of the proposed methodologies.
+This repository contains the companion code for the article **"Dynamic Dimensioning of Frequency Containment Reserves: The Case of the Nordic Grid"**, authored by Jobke Janssen, Alessandro Zocca, Bert Zwart, and Jalal Kazempour. The preprint is available on [arXiv]([https://arxiv.org/](https://arxiv.org/abs/2411.11093)). The code supports the reproducibility of the results presented in the manuscript and facilitates further exploration of the proposed methodologies.
 
 ---
 
@@ -26,11 +26,11 @@ If you use this code in your work, please cite our preprint as follows:
 ```
 @article{Janssen2024,
   author = {Janssen, Jobke and Zocca, Alessandro and Zwart, Bert and Kazempour, Jalal},
-  doi = {10.48550/arXiv.2411.xxxxx},
+  doi = {10.48550/arXiv.2411.11093},
   journal = {arXiv},
   month = nov,
   title = {{Dynamic Dimensioning of Frequency Containment Reserves: The Case of the Nordic Grid}},
-  url = {https://arxiv.org/abs/2411.xxxxx},
+  url = {https://arxiv.org/abs/2411.11093},
   year = {2024}
 }
 ```
